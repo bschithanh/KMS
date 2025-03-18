@@ -6,7 +6,7 @@ QR ngân hàng nếu quí khách có lòng hảo tâm, ủng hộ người soạ
 
 ## DOWNLOAD KMS
 
- - Quý vị download KMS từ [trang chủ](https://github.com/abbodi1406/KMS_VL_ALL_AIO/releases) hoặc [tại đây](https://raw.githubusercontent.com/bschithanh/nguon/refs/heads/main/KMS5.3.cmd), Run nó lên, chọn 1 để kích hoạt vĩnh viễn, chọn 2 để tạo Auto Renew.
+ - Quý vị download KMS từ [trang chủ](https://github.com/abbodi1406/KMS_VL_ALL_AIO/releases) hoặc [tại đây](https://raw.githubusercontent.com/bschithanh/nguon/main/KMS5.3.cmd), Run nó lên, chọn 1 để kích hoạt vĩnh viễn, chọn 2 để tạo Auto Renew.
   - Hoặc mở **cmd** bằng quyền **Run as Administrator** rồi copy đoạn mã sau dán vào và đánh **Enter**
     
     ```php
